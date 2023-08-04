@@ -4,6 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abshilpa&label=Profile%20views&color=0e75b6&style=flat" alt="abshilpa" /> </p>
 
+ <img align="right" alt="Coding" width="300" height ="300"
+ src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+ 
 - 🌱 I’m currently learning **Full Stack Data science**
 
 - 📝 I regularly write articles on [https://medium.com/@shilpaA](https://medium.com/@shilpaA)
@@ -14,8 +17,7 @@
 
 - 📄 Portfolio [https://sites.google.com/view/shilpaabbugari/home?authuser=0](https://sites.google.com/view/shilpaabbugari/home?authuser=0)
 
- <img align="right" alt="Coding" width="400" height ="300"
- src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+ 
 
  
 <h3 align="left">Connect with me:</h3>
