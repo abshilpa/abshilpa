@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abbugarishilpa@gmail.com**
 
-- 📄 Portfolio [https://sites.google.com/view/shilpaabbugari/home?authuser=0](https://sites.google.com/view/shilpaabbugari/home?authuser=0)
+- 📄 Portfolio [https://sites.google.com/view/shilpaabbugari/home?authuser=0](https://sites.google.com/view/shilpaabbugari/home)
 
  
 
