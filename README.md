@@ -14,6 +14,9 @@
 
 - 📄 Portfolio [https://sites.google.com/view/shilpaabbugari/home?authuser=0](https://sites.google.com/view/shilpaabbugari/home?authuser=0)
 
+ <img align="right" alt="Coding" width="400" height ="300"
+ src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
