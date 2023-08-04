@@ -34,4 +34,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abshilpa&" alt="abshilpa" /></p>
 
+ ![Snake animation](https://github.com/abshilpa/abshilpa/raw/output/github-contribution-grid-snake.svg)
+
  
