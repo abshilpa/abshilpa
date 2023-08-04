@@ -17,7 +17,7 @@
 
 - 📄 Portfolio  https://sites.google.com/view/shilpaabbugari/home
 
-- 📝 I regularly write articles on  https://medium.com/@shilpaA
+
 
  
 
