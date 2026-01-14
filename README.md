@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm  A Shilpa</h1>
-<h3 align="center">A Passionate Data Science Enthusiast..</h3>
+<h3 align="center">A Passionate AI/ML Enthusiast..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abshilpa&label=Profile%20views&color=0e75b6&style=flat" alt="abshilpa" /> </p>
 
  <img align="right" alt="Coding" width="300" height ="300"
  src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
  
-- 🌱 I’m currently learning **Full Stack Data science**
+- 🌱 I’m currently learning ** Gen AI & Agentic AI **
 
 - 📝 I regularly write articles on [https://medium.com/@shilpaA](https://medium.com/@shilpaA)
 
